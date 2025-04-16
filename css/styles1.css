@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #fcf6d8; /* 明るい背景色 */
+    color: #333; /* テキストの色を濃いグレーに */
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50; /* 明るい緑色 */
+    color: white; /* ボタンの文字色を白に */
+    border: none;
+    border-radius: 5px; /* 角を丸く */
+}
+button:hover {
+    background-color: #45a049; /* ホバー時の色を少し濃く */
+}
+#output {
+    margin-top: 20px;
+    color: #555; /* 少し明るいグレー */
+    font-weight: bold; /* 太字にする */
+    font-size: 20px; /* 少し大きめにする */
+}
